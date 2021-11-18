@@ -9,7 +9,7 @@ hive monitoring.
 like scipy, pandas, numpy and matplotlib etc.
 
 ◦ Trained the model on ”BeeImage” dataset and achieved an accuracy of :
-https://github.com/me-anant/Honey-bee-health-detection/raw/master/Accuracy.jpg
+https://github.com/me-anant/Honey-bee-health-detection/blob/main/Accuracy.jpg
 
 ◦ Learnings: Image features extraction using Convolutional neural networks, Keras API, Gradient
 Descent, Backpropagation.
